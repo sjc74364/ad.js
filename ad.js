@@ -37,6 +37,7 @@ function FindProxyForURL(url, host){
 //<添加>
 "lcbke.jxxfzyn.com",
 ".ajzhi.com",
+".baidu.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
