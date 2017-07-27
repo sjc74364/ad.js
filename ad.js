@@ -34,6 +34,9 @@ function FindProxyForURL(url, host){
 //=========域名Start=========
 //<ad.js_test>
 "sc.cdce.cf",
+//<添加>
+"lcbke.jxxfzyn.com",
+"img3.ajzhi.com",
 //<youku>
 "ad.api.3g.youku.com",
 "statis.api.3g.youku.com",
