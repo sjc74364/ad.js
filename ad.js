@@ -3600,6 +3600,9 @@ function FindProxyForURL(url, host){
     var rules = [
 //【iOS 9.3.2 以上的系统由于系统限制，无法享受URL规则功能。】
 //=========URL规则Start=========
+"*lcbke.jxxfzyn.com*",
+"*.ajzhi.com*",
+"*15.cekl.com.cn*",
 "*pg.dmclock.com:8011/ec54.html*",
 "*pg.dmclock.com/ec54.html*",
 "http://x.jd.com/exsites?spread_type=*",
